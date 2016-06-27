@@ -1,0 +1,10 @@
+<section class="post" itemscope itemprop="blogPost">
+    <a href="{{ .Permalink }}" title="{{ .Title }}" itemprop="url">
+    <h1 itemprop="name">{{ .Title }}</h1>
+    <p itemprop="description">{{ .Summary }} </p>
+    {{if .Truncated}}
+    <div>More...</div>
+    {{ end }}
+    <time datetime="{{ .Date }}" itemprop="datePublished">{{ .Date.Format .Site.Params.DateFormat }}</time>
+  </a>
+</section>
