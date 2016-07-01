@@ -14,6 +14,7 @@ Git由于其灵活 速度快 离线工作等特点而倍受青睐,下面一步�
 
 	git clone <server>
 	git clone https://github.com/klj123wan/blog.konglingjian.com.git
+<!--more-->
 
 ### 2、创建仓库	
 创建一个本地的local repository
