@@ -21,3 +21,4 @@ syncFolders*
 */*/*/.DS_Store
 */*/*/*/.DS_Store
 */*/*/*/*/.DS_Store
+nohup.out
