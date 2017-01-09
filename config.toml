@@ -2,7 +2,7 @@ baseurl = "http://blog.konglingjian.com/"
 languageCode = "zh-CN"
 title = "Alex kong"
 theme = "hugo-pacman-theme"
-Categories = ["技术", "生活"]
+Categories = ["技术", "生活", "工具"]
 Description = ""
 Tags = []
 
